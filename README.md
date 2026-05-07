@@ -213,7 +213,7 @@ Validation layer artifacts (JSON + CSV) from the reference run. Contains the ODE
 
 If you use this framework, please cite:
 
-> Kim, M. (2026). *Preventing the Proliferation of Bioweapons: Artificial Intelligence for Biodefense.* Undergraduate Honors Thesis.
+> Kim, TM. (2026). *Preventing the Proliferation of Bioweapons: Artificial Intelligence for Biodefense.* Undergraduate Honors Thesis.
 
 A BibTeX entry will be added when the thesis is publicly archived.
 
