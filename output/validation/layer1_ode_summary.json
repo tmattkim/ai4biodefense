@@ -1,0 +1,11 @@
+{
+  "mass_conservation_valid": true,
+  "max_mass_deviation": 5.4569682106375694e-12,
+  "peak_infections": 4313.553109646076,
+  "peak_day": 14.0,
+  "R_eff_initial": 3.982608695652174,
+  "R_eff_final": 2.701182290901068e-08,
+  "final_susceptible_fraction": 6.75295572725267e-09,
+  "final_attack_rate": 0.9999999324359432,
+  "N_total": 9200.0
+}

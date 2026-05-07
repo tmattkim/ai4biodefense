@@ -1,0 +1,19 @@
+{
+  "agreement_pass": false,
+  "normalized_mae": 0.12241923815233968,
+  "normalized_mae_threshold": 0.15,
+  "mae_pass": true,
+  "prediction_interval_coverage": 0.2611111111111111,
+  "coverage_threshold": 0.8,
+  "coverage_pass": false,
+  "attack_rate_gap": 0.018358628088116946,
+  "attack_rate_pass": true,
+  "mean_absolute_error": 528.0618854125285,
+  "abm_mean_peak": 3610.98,
+  "ode_peak": 4313.553109646076,
+  "peak_difference": -702.5731096460763,
+  "abm_final_attack_rate_mean": 0.9816413043478263,
+  "ode_final_attack_rate": 0.9999999324359432,
+  "n_runs": 50,
+  "ode_within_abm_ci": false
+}

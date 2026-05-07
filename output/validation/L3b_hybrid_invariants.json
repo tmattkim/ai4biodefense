@@ -1,0 +1,9 @@
+{
+  "n_runs": 25,
+  "mass_violations": 0,
+  "monotone_R_violations": 0,
+  "smoothness_violations": 0,
+  "runs_with_any_switch": 25,
+  "smoothness_tolerance": 0.3,
+  "pass": true
+}

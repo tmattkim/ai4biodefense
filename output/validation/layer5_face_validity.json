@@ -1,0 +1,67 @@
+{
+  "per_disease": {
+    "COVID-19": {
+      "R0": 4.0,
+      "simulated_attack_rate": 0.9999999932470502,
+      "analytic_attack_rate": 0.9801725987182208,
+      "attack_rate_gap": 0.019827394528829423,
+      "attack_rate_pass": true,
+      "mass_conservation_valid": true,
+      "max_mass_deviation": 9.094947017729282e-12,
+      "R_eff_initial": 3.982608695652174,
+      "R_eff_gap_from_R0": 0.017391304347825987,
+      "R_eff_pass": true,
+      "strict_final_size_check": true,
+      "peak_day": 14.0,
+      "peak_infections": 4313.553109646076
+    },
+    "Influenza": {
+      "R0": 1.7,
+      "simulated_attack_rate": 0.9999848211597576,
+      "analytic_attack_rate": 0.6911860487118644,
+      "attack_rate_gap": 0.3087987724478932,
+      "attack_rate_pass": false,
+      "mass_conservation_valid": true,
+      "max_mass_deviation": 7.275957614183426e-12,
+      "R_eff_initial": 1.6944565217391305,
+      "R_eff_gap_from_R0": 0.005543478260869428,
+      "R_eff_pass": true,
+      "strict_final_size_check": true,
+      "peak_day": 8.0,
+      "peak_infections": 4489.74811764771
+    },
+    "Ebola": {
+      "R0": 1.8,
+      "simulated_attack_rate": 0.999916370319846,
+      "analytic_attack_rate": 0.7324299666370861,
+      "attack_rate_gap": 0.2674864036827599,
+      "attack_rate_pass": false,
+      "mass_conservation_valid": true,
+      "max_mass_deviation": 1.2732925824820995e-11,
+      "R_eff_initial": 1.7970652173913044,
+      "R_eff_gap_from_R0": 0.0029347826086956186,
+      "R_eff_pass": true,
+      "strict_final_size_check": false,
+      "peak_day": 23.0,
+      "peak_infections": 2549.2796035307483
+    },
+    "Measles": {
+      "R0": 15.0,
+      "simulated_attack_rate": 0.999999999999738,
+      "analytic_attack_rate": 0.9999996940962759,
+      "attack_rate_gap": 3.059034621166745e-07,
+      "attack_rate_pass": true,
+      "mass_conservation_valid": true,
+      "max_mass_deviation": 7.275957614183426e-12,
+      "R_eff_initial": 14.97554347826087,
+      "R_eff_gap_from_R0": 0.02445652173913082,
+      "R_eff_pass": true,
+      "strict_final_size_check": false,
+      "peak_day": 14.0,
+      "peak_infections": 2699.1907557357567
+    }
+  },
+  "all_mass_conservation_pass": true,
+  "strict_final_size_pass": false,
+  "face_validity_pass": false
+}

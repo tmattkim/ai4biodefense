@@ -1,0 +1,87 @@
+{
+  "by_dial": {
+    "patient_ai_access": {
+      "points": [
+        {
+          "value": 0.0,
+          "peak_mean": 4197.476038353891,
+          "attack_rate_mean": 0.999988,
+          "n_runs": 25
+        },
+        {
+          "value": 0.2,
+          "peak_mean": 3888.068111858623,
+          "attack_rate_mean": 0.9995560000000002,
+          "n_runs": 25
+        },
+        {
+          "value": 0.4,
+          "peak_mean": 2257.8636158749814,
+          "attack_rate_mean": 0.8246559999999998,
+          "n_runs": 25
+        },
+        {
+          "value": 0.6,
+          "peak_mean": 1421.24,
+          "attack_rate_mean": 0.712256,
+          "n_runs": 25
+        },
+        {
+          "value": 0.8,
+          "peak_mean": 1173.36,
+          "attack_rate_mean": 0.680804,
+          "n_runs": 25
+        }
+      ],
+      "rho_peak": -0.9999999999999999,
+      "p_peak": 1.4042654220543602e-24,
+      "rho_attack_rate": -0.9999999999999999,
+      "p_attack_rate": 1.4042654220543602e-24,
+      "expected_negative_rho": true,
+      "monotonic_in_expected_direction": true
+    },
+    "system_ai_countermeasure_lead": {
+      "points": [
+        {
+          "value": 7.0,
+          "peak_mean": 1450.8,
+          "attack_rate_mean": 0.729068,
+          "n_runs": 25
+        },
+        {
+          "value": 14.0,
+          "peak_mean": 1446.56,
+          "attack_rate_mean": 0.7302639999999999,
+          "n_runs": 25
+        },
+        {
+          "value": 30.0,
+          "peak_mean": 1583.16,
+          "attack_rate_mean": 0.7317200000000001,
+          "n_runs": 25
+        },
+        {
+          "value": 60.0,
+          "peak_mean": 1801.88,
+          "attack_rate_mean": 0.7408440000000001,
+          "n_runs": 25
+        },
+        {
+          "value": 90.0,
+          "peak_mean": 1801.88,
+          "attack_rate_mean": 0.752112,
+          "n_runs": 25
+        }
+      ],
+      "rho_peak": 0.8720815992723809,
+      "p_peak": 0.05385421772754213,
+      "rho_attack_rate": 0.9999999999999999,
+      "p_attack_rate": 1.4042654220543602e-24,
+      "expected_negative_rho": false,
+      "monotonic_in_expected_direction": true
+    }
+  },
+  "n_dials_pass": 2,
+  "n_dials_total": 2,
+  "pass": true
+}

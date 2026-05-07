@@ -1,0 +1,198 @@
+{
+  "by_disease_scenario": {
+    "covid19": {
+      "baseline": {
+        "n_replications": 200,
+        "abm_fraction_mean": 0.3821267626313684,
+        "abm_fraction_std": 0.02487718036576624,
+        "abm_fraction_p10": 0.35294117647058826,
+        "abm_fraction_p90": 0.4153846153846154,
+        "ever_switched_fraction": 1.0,
+        "mean_n_switches": 2.0
+      },
+      "patient_ai": {
+        "n_replications": 200,
+        "abm_fraction_mean": 1.0,
+        "abm_fraction_std": 0.0,
+        "abm_fraction_p10": 1.0,
+        "abm_fraction_p90": 1.0,
+        "ever_switched_fraction": 0.0,
+        "mean_n_switches": 0.0
+      },
+      "system_ai": {
+        "n_replications": 200,
+        "abm_fraction_mean": 1.0,
+        "abm_fraction_std": 0.0,
+        "abm_fraction_p10": 1.0,
+        "abm_fraction_p90": 1.0,
+        "ever_switched_fraction": 0.0,
+        "mean_n_switches": 0.0
+      },
+      "combined": {
+        "n_replications": 200,
+        "abm_fraction_mean": 1.0,
+        "abm_fraction_std": 0.0,
+        "abm_fraction_p10": 1.0,
+        "abm_fraction_p90": 1.0,
+        "ever_switched_fraction": 0.0,
+        "mean_n_switches": 0.0
+      }
+    },
+    "influenza": {
+      "baseline": {
+        "n_replications": 200,
+        "abm_fraction_mean": 0.3705577341602775,
+        "abm_fraction_std": 0.026507697040795447,
+        "abm_fraction_p10": 0.3392857142857143,
+        "abm_fraction_p90": 0.4032258064516129,
+        "ever_switched_fraction": 1.0,
+        "mean_n_switches": 2.0
+      },
+      "patient_ai": {
+        "n_replications": 200,
+        "abm_fraction_mean": 0.3833021485736657,
+        "abm_fraction_std": 0.02441466985617456,
+        "abm_fraction_p10": 0.3548387096774194,
+        "abm_fraction_p90": 0.412617220801364,
+        "ever_switched_fraction": 1.0,
+        "mean_n_switches": 2.0
+      },
+      "system_ai": {
+        "n_replications": 200,
+        "abm_fraction_mean": 0.38614207535813627,
+        "abm_fraction_std": 0.02565493288463891,
+        "abm_fraction_p10": 0.35714285714285715,
+        "abm_fraction_p90": 0.4200423056583818,
+        "ever_switched_fraction": 1.0,
+        "mean_n_switches": 2.0
+      },
+      "combined": {
+        "n_replications": 200,
+        "abm_fraction_mean": 1.0,
+        "abm_fraction_std": 0.0,
+        "abm_fraction_p10": 1.0,
+        "abm_fraction_p90": 1.0,
+        "ever_switched_fraction": 0.0,
+        "mean_n_switches": 0.0
+      }
+    },
+    "ebola": {
+      "baseline": {
+        "n_replications": 200,
+        "abm_fraction_mean": 1.0,
+        "abm_fraction_std": 0.0,
+        "abm_fraction_p10": 1.0,
+        "abm_fraction_p90": 1.0,
+        "ever_switched_fraction": 0.0,
+        "mean_n_switches": 0.0
+      },
+      "patient_ai": {
+        "n_replications": 200,
+        "abm_fraction_mean": 1.0,
+        "abm_fraction_std": 0.0,
+        "abm_fraction_p10": 1.0,
+        "abm_fraction_p90": 1.0,
+        "ever_switched_fraction": 0.0,
+        "mean_n_switches": 0.0
+      },
+      "system_ai": {
+        "n_replications": 200,
+        "abm_fraction_mean": 1.0,
+        "abm_fraction_std": 0.0,
+        "abm_fraction_p10": 1.0,
+        "abm_fraction_p90": 1.0,
+        "ever_switched_fraction": 0.0,
+        "mean_n_switches": 0.0
+      },
+      "combined": {
+        "n_replications": 200,
+        "abm_fraction_mean": 1.0,
+        "abm_fraction_std": 0.0,
+        "abm_fraction_p10": 1.0,
+        "abm_fraction_p90": 1.0,
+        "ever_switched_fraction": 0.0,
+        "mean_n_switches": 0.0
+      }
+    },
+    "dengue": {
+      "baseline": {
+        "n_replications": 200,
+        "abm_fraction_mean": 0.39815180094514063,
+        "abm_fraction_std": 0.024213371244808837,
+        "abm_fraction_p10": 0.36799166978159875,
+        "abm_fraction_p90": 0.4323529411764706,
+        "ever_switched_fraction": 1.0,
+        "mean_n_switches": 2.0
+      },
+      "patient_ai": {
+        "n_replications": 200,
+        "abm_fraction_mean": 0.4250647108898149,
+        "abm_fraction_std": 0.02353187395469856,
+        "abm_fraction_p10": 0.39766081871345027,
+        "abm_fraction_p90": 0.4576719576719577,
+        "ever_switched_fraction": 1.0,
+        "mean_n_switches": 2.0
+      },
+      "system_ai": {
+        "n_replications": 200,
+        "abm_fraction_mean": 0.45239026417137285,
+        "abm_fraction_std": 0.021209734380097486,
+        "abm_fraction_p10": 0.4272151898734177,
+        "abm_fraction_p90": 0.48004469987228604,
+        "ever_switched_fraction": 1.0,
+        "mean_n_switches": 2.0
+      },
+      "combined": {
+        "n_replications": 200,
+        "abm_fraction_mean": 1.0,
+        "abm_fraction_std": 0.0,
+        "abm_fraction_p10": 1.0,
+        "abm_fraction_p90": 1.0,
+        "ever_switched_fraction": 0.0,
+        "mean_n_switches": 0.0
+      }
+    },
+    "measles": {
+      "baseline": {
+        "n_replications": 200,
+        "abm_fraction_mean": 1.0,
+        "abm_fraction_std": 0.0,
+        "abm_fraction_p10": 1.0,
+        "abm_fraction_p90": 1.0,
+        "ever_switched_fraction": 0.0,
+        "mean_n_switches": 0.0
+      },
+      "patient_ai": {
+        "n_replications": 200,
+        "abm_fraction_mean": 1.0,
+        "abm_fraction_std": 0.0,
+        "abm_fraction_p10": 1.0,
+        "abm_fraction_p90": 1.0,
+        "ever_switched_fraction": 0.0,
+        "mean_n_switches": 0.0
+      },
+      "system_ai": {
+        "n_replications": 200,
+        "abm_fraction_mean": 1.0,
+        "abm_fraction_std": 0.0,
+        "abm_fraction_p10": 1.0,
+        "abm_fraction_p90": 1.0,
+        "ever_switched_fraction": 0.0,
+        "mean_n_switches": 0.0
+      },
+      "combined": {
+        "n_replications": 200,
+        "abm_fraction_mean": 1.0,
+        "abm_fraction_std": 0.0,
+        "abm_fraction_p10": 1.0,
+        "abm_fraction_p90": 1.0,
+        "ever_switched_fraction": 0.0,
+        "mean_n_switches": 0.0
+      }
+    }
+  },
+  "overall_intervention_abm_fraction_mean": 0.8431266132661992,
+  "pass": true,
+  "pass_threshold": 0.5,
+  "n_disease_scenario_pairs": 15
+}

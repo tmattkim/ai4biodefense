@@ -1,0 +1,40 @@
+{
+  "by_n_reps": [
+    {
+      "n": 20,
+      "peak_mean": 4107.4821518831595,
+      "peak_ci_width": -36.475893663815896,
+      "attack_rate_mean": 0.9997400000000001,
+      "attack_rate_ci_width": -2.999999999997449e-05
+    },
+    {
+      "n": 50,
+      "peak_mean": 4125.3700436641875,
+      "peak_ci_width": -20.682099558817754,
+      "attack_rate_mean": 0.9997360000000001,
+      "attack_rate_ci_width": -1.8000000000073513e-05
+    },
+    {
+      "n": 100,
+      "peak_mean": 4123.261141247296,
+      "peak_ci_width": -18.102923426718007,
+      "attack_rate_mean": 0.9997370000000002,
+      "attack_rate_ci_width": -1.2000000000123023e-05
+    },
+    {
+      "n": 200,
+      "peak_mean": 4123.101733633256,
+      "peak_ci_width": -11.396813895472405,
+      "attack_rate_mean": 0.9997335,
+      "attack_rate_ci_width": -8.999999999925734e-06
+    },
+    {
+      "n": 500,
+      "peak_mean": 4119.480974440112,
+      "peak_ci_width": -7.357099636987186,
+      "attack_rate_mean": 0.9997394000000002,
+      "attack_rate_ci_width": -5.599999999938987e-06
+    }
+  ],
+  "pass": true
+}

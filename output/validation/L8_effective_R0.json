@@ -1,0 +1,48 @@
+{
+  "per_disease": {
+    "COVID-19": {
+      "nominal_R0": 4.0,
+      "R0_effective_NGM": 8.060281148727642,
+      "R0_pooled_mean": 7.19,
+      "gap_relative": 1.0150702871819104,
+      "close": false,
+      "n_seed_primaries_total": 200,
+      "n_transmission_events_total": 19292,
+      "n_seed_runs": 5
+    },
+    "Influenza": {
+      "nominal_R0": 1.7,
+      "R0_effective_NGM": 6.644515748280337,
+      "R0_pooled_mean": 6.206666666666667,
+      "gap_relative": 2.908538675459022,
+      "close": false,
+      "n_seed_primaries_total": 150,
+      "n_transmission_events_total": 36948,
+      "n_seed_runs": 5
+    },
+    "Ebola": {
+      "nominal_R0": 1.8,
+      "R0_effective_NGM": 2.524250204773492,
+      "R0_pooled_mean": 2.1466666666666665,
+      "gap_relative": 0.4023612248741621,
+      "close": true,
+      "n_seed_primaries_total": 75,
+      "n_transmission_events_total": 302,
+      "n_seed_runs": 5
+    },
+    "Measles": {
+      "nominal_R0": 15.0,
+      "R0_effective_NGM": 5.063634347519093,
+      "R0_pooled_mean": 4.1066666666666665,
+      "gap_relative": 0.6624243768320605,
+      "close": false,
+      "n_seed_primaries_total": 75,
+      "n_transmission_events_total": 2500,
+      "n_seed_runs": 5
+    }
+  },
+  "n_close": 1,
+  "n_diseases": 4,
+  "pass": false,
+  "tolerance": 0.5
+}

@@ -1,0 +1,18 @@
+{
+  "n_runs": 50,
+  "stripped_abm_mean_peak": 5755.26,
+  "ode_peak": 4313.553109646076,
+  "normalized_mae": 0.11556477639042279,
+  "prediction_interval_coverage": 0.027777777777777776,
+  "coverage_threshold": 0.6,
+  "mae_threshold": 0.2,
+  "pass": false,
+  "overrides_applied": [
+    "no_superspreading",
+    "no_presymptomatic",
+    "no_compliance_fatigue",
+    "no_essential_exemption",
+    "no_prevalence_aware",
+    "single_archetype"
+  ]
+}

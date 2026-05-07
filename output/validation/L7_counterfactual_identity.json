@@ -1,0 +1,19 @@
+{
+  "population_identical_across_seed": true,
+  "network_identical_across_seed": true,
+  "intervention_reset_correct": true,
+  "reset_deltas": {
+    "cumulative_attack_rate": 0.0,
+    "peak_incidence": 0.0,
+    "epidemic_duration": 0.0
+  },
+  "deterministic_replay_correct": true,
+  "replay_deltas": {
+    "cumulative_attack_rate": 0.0,
+    "peak_incidence": 0.0,
+    "epidemic_duration": 0.0
+  },
+  "pass": true,
+  "pop_hash": "d7fca8971393c74f05a5b1c7e445f8c63cfc727ebbac40a6c3b45dbc61349bae",
+  "net_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}
